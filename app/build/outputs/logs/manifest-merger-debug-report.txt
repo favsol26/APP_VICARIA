@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/2eb7098d1d8ffb299de81fe1533f5ebd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/b25cc22ef43b622a3f3b2d730f6de400/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/86a3c6dc3a9cf44d891151e58b0f26ad/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/4e73a7f7f25ffde3352d8ba10647f937/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/faustino/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a5fd92c79fdcd88964a092c938acafb1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95ae44f36160b91bf54795d7366c6021/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/acc171b576cba5d8951b52fb3dc5dafb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/210bda9822506afc6368b1b2724d0009/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/fa3a14528502de09000882b6eabc8cfc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/56b6c0193b13effe13162073550bf8de/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/569ccb6730cbd90a0fe8a8c45b7eff16/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7c21704d0c0b666a386dbe22584abc05/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/a06edda10af9753594ee027e74dff978/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/871e7f653f9a2ad81f95ba98f63f7edf/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:8:22-69
+application
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:10:5-43:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/2eb7098d1d8ffb299de81fe1533f5ebd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/2eb7098d1d8ffb299de81fe1533f5ebd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/b25cc22ef43b622a3f3b2d730f6de400/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/b25cc22ef43b622a3f3b2d730f6de400/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/4e73a7f7f25ffde3352d8ba10647f937/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/4e73a7f7f25ffde3352d8ba10647f937/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/faustino/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a5fd92c79fdcd88964a092c938acafb1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/faustino/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a5fd92c79fdcd88964a092c938acafb1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95ae44f36160b91bf54795d7366c6021/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95ae44f36160b91bf54795d7366c6021/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/acc171b576cba5d8951b52fb3dc5dafb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/acc171b576cba5d8951b52fb3dc5dafb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/210bda9822506afc6368b1b2724d0009/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/210bda9822506afc6368b1b2724d0009/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/fa3a14528502de09000882b6eabc8cfc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/fa3a14528502de09000882b6eabc8cfc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/56b6c0193b13effe13162073550bf8de/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/56b6c0193b13effe13162073550bf8de/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/569ccb6730cbd90a0fe8a8c45b7eff16/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/569ccb6730cbd90a0fe8a8c45b7eff16/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7c21704d0c0b666a386dbe22584abc05/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7c21704d0c0b666a386dbe22584abc05/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/a06edda10af9753594ee027e74dff978/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/a06edda10af9753594ee027e74dff978/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/871e7f653f9a2ad81f95ba98f63f7edf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/871e7f653f9a2ad81f95ba98f63f7edf/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.faustino.app_vicaria.MainActivity
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.faustino.app_vicaria.InformationActivity
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:27:9-57
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:27:19-54
+activity#com.example.faustino.app_vicaria.MenuParts
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:28:9-47
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:28:19-44
+activity#com.example.faustino.app_vicaria.Login_Vicaria
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:29:9-38:20
+	android:label
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:32:13-66
+	android:exported
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:30:13-42
+activity#com.example.faustino.app_vicaria.Main2Activity
+ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:39:9-42:68
+	android:label
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:41:13-57
+	android:theme
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml:40:13-42
+uses-sdk
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/2eb7098d1d8ffb299de81fe1533f5ebd/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/2eb7098d1d8ffb299de81fe1533f5ebd/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/b25cc22ef43b622a3f3b2d730f6de400/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/b25cc22ef43b622a3f3b2d730f6de400/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/86a3c6dc3a9cf44d891151e58b0f26ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/86a3c6dc3a9cf44d891151e58b0f26ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/4e73a7f7f25ffde3352d8ba10647f937/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/4e73a7f7f25ffde3352d8ba10647f937/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/faustino/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a5fd92c79fdcd88964a092c938acafb1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/faustino/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a5fd92c79fdcd88964a092c938acafb1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95ae44f36160b91bf54795d7366c6021/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95ae44f36160b91bf54795d7366c6021/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/acc171b576cba5d8951b52fb3dc5dafb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/acc171b576cba5d8951b52fb3dc5dafb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/210bda9822506afc6368b1b2724d0009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/210bda9822506afc6368b1b2724d0009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/fa3a14528502de09000882b6eabc8cfc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/fa3a14528502de09000882b6eabc8cfc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/56b6c0193b13effe13162073550bf8de/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/56b6c0193b13effe13162073550bf8de/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/569ccb6730cbd90a0fe8a8c45b7eff16/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/569ccb6730cbd90a0fe8a8c45b7eff16/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7c21704d0c0b666a386dbe22584abc05/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7c21704d0c0b666a386dbe22584abc05/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/a06edda10af9753594ee027e74dff978/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/a06edda10af9753594ee027e74dff978/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/871e7f653f9a2ad81f95ba98f63f7edf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/871e7f653f9a2ad81f95ba98f63f7edf/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/2eb7098d1d8ffb299de81fe1533f5ebd/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+		ADDED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+		INJECTED from /home/faustino/AndroidStudioProjects/APP_VICARIA/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/2eb7098d1d8ffb299de81fe1533f5ebd/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/b25cc22ef43b622a3f3b2d730f6de400/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/b25cc22ef43b622a3f3b2d730f6de400/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/86a3c6dc3a9cf44d891151e58b0f26ad/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/86a3c6dc3a9cf44d891151e58b0f26ad/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/4e73a7f7f25ffde3352d8ba10647f937/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/4e73a7f7f25ffde3352d8ba10647f937/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95ae44f36160b91bf54795d7366c6021/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/95ae44f36160b91bf54795d7366c6021/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/acc171b576cba5d8951b52fb3dc5dafb/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/acc171b576cba5d8951b52fb3dc5dafb/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/210bda9822506afc6368b1b2724d0009/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/210bda9822506afc6368b1b2724d0009/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/fa3a14528502de09000882b6eabc8cfc/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/fa3a14528502de09000882b6eabc8cfc/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/56b6c0193b13effe13162073550bf8de/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/56b6c0193b13effe13162073550bf8de/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/569ccb6730cbd90a0fe8a8c45b7eff16/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/569ccb6730cbd90a0fe8a8c45b7eff16/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7c21704d0c0b666a386dbe22584abc05/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/7c21704d0c0b666a386dbe22584abc05/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/a06edda10af9753594ee027e74dff978/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/a06edda10af9753594ee027e74dff978/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/871e7f653f9a2ad81f95ba98f63f7edf/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/871e7f653f9a2ad81f95ba98f63f7edf/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/2eb7098d1d8ffb299de81fe1533f5ebd/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/faustino/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/2eb7098d1d8ffb299de81fe1533f5ebd/AndroidManifest.xml:26:9-47
